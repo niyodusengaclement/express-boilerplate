@@ -1,0 +1,9 @@
+node_modules
+.history
+.vscode
+.env
+tmp/
+build
+dist
+combined.log
+error.log
